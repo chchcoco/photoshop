@@ -20,7 +20,7 @@
   
     옵션으로 평균값과 가우시안 분포를 적용한 결과를 각각 'Adepted Mean', 'Adepted Gaussian'을 통해 출력할 수 있다.
 
-+경계검출
++ 경계검출
   + Roverts Corss Filter
   
     로버츠 크로스 필터를 통한 경계검출을 한 이미지를 출력
