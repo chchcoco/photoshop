@@ -1,12 +1,13 @@
 # photoshop
 
 실행을 위해 필요 사항
-  python                    3.9.13
-  numpy                     1.23.4
-  opencv-python             4.6.0.66
-  pip                       22.2.2
-  pyside6                   6.4.0
-
+```
+  python                    3.9.13    
+  numpy                     1.23.4    
+  opencv-python             4.6.0.66    
+  pip                       22.2.2    
+  pyside6                   6.4.0    
+```
  
 
 ## 메뉴바 기능
